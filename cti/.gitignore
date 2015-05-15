@@ -1,0 +1,4 @@
+# Mongo
+/database/*
+!/database/run.bat
+!/database/run.sh
